@@ -1,0 +1,12 @@
+{
+  "wer": 5.66,
+  "ins": 94,
+  "del": 449,
+  "sub": 464,
+  "audio_length": 7122.378374999999,
+  "inference_time": 32.91817346191364,
+  "rtfx": 216.3661,
+  "language": "en",
+  "multilingual": false,
+  "manifest_sha256": "83cbb253f94e6c3fde5fd99b5ae568f0e2719d4c3d765c4a4fdac984f33a84da"
+}

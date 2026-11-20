@@ -1,0 +1,116 @@
+{
+  "Qwen/Qwen3-ASR-1.7B-hf": {
+    "ami_cleaned": {
+      "our_wer": 8.755,
+      "ci_low": 7.102,
+      "ci_high": 10.44,
+      "published_wer": 8.31,
+      "difference_pp": 0.445,
+      "published_inside_ci": true,
+      "n_clips": 200,
+      "transcript_agreement": 0.985,
+      "transcript_agreement_raw": 0.935,
+      "n_comparable": 200
+    },
+    "gigaspeech_cleaned": {
+      "our_wer": 5.888,
+      "ci_low": 4.629,
+      "ci_high": 7.198,
+      "published_wer": 7.22,
+      "difference_pp": -1.332,
+      "published_inside_ci": false,
+      "n_clips": 200,
+      "transcript_agreement": 0.99,
+      "transcript_agreement_raw": 0.95,
+      "n_comparable": 200
+    },
+    "voxpopuli_cleaned_aa": {
+      "our_wer": 2.805,
+      "ci_low": 2.315,
+      "ci_high": 3.273,
+      "published_wer": 2.85,
+      "difference_pp": -0.045,
+      "published_inside_ci": true,
+      "n_clips": 200,
+      "transcript_agreement": 0.98,
+      "transcript_agreement_raw": 0.94,
+      "n_comparable": 200
+    }
+  },
+  "Musci-research/Musci-ASR-qwen-1019-hf": {
+    "ami_cleaned": {
+      "our_wer": 6.761,
+      "ci_low": 5.524,
+      "ci_high": 8.158,
+      "published_wer": 6.53,
+      "difference_pp": 0.231,
+      "published_inside_ci": true,
+      "n_clips": 200,
+      "transcript_agreement": 0.995,
+      "transcript_agreement_raw": 0.975,
+      "n_comparable": 200
+    },
+    "gigaspeech_cleaned": {
+      "our_wer": 5.302,
+      "ci_low": 4.182,
+      "ci_high": 6.434,
+      "published_wer": 6.41,
+      "difference_pp": -1.108,
+      "published_inside_ci": true,
+      "n_clips": 200,
+      "transcript_agreement": 0.995,
+      "transcript_agreement_raw": 0.97,
+      "n_comparable": 200
+    },
+    "voxpopuli_cleaned_aa": {
+      "our_wer": 1.535,
+      "ci_low": 1.185,
+      "ci_high": 1.883,
+      "published_wer": 1.47,
+      "difference_pp": 0.065,
+      "published_inside_ci": true,
+      "n_clips": 200,
+      "transcript_agreement": 1.0,
+      "transcript_agreement_raw": 0.96,
+      "n_comparable": 200
+    }
+  },
+  "CohereLabs/cohere-transcribe-03-2026": {
+    "ami_cleaned": {
+      "our_wer": 7.733,
+      "ci_low": 6.175,
+      "ci_high": 9.512,
+      "published_wer": 7.02,
+      "difference_pp": 0.713,
+      "published_inside_ci": true,
+      "n_clips": 200,
+      "transcript_agreement": 0.99,
+      "transcript_agreement_raw": 0.985,
+      "n_comparable": 200
+    },
+    "gigaspeech_cleaned": {
+      "our_wer": 6.45,
+      "ci_low": 5.175,
+      "ci_high": 7.787,
+      "published_wer": 7.88,
+      "difference_pp": -1.43,
+      "published_inside_ci": false,
+      "n_clips": 200,
+      "transcript_agreement": 0.985,
+      "transcript_agreement_raw": 0.965,
+      "n_comparable": 200
+    },
+    "voxpopuli_cleaned_aa": {
+      "our_wer": 5.098,
+      "ci_low": 4.373,
+      "ci_high": 5.905,
+      "published_wer": 5.38,
+      "difference_pp": -0.282,
+      "published_inside_ci": true,
+      "n_clips": 200,
+      "transcript_agreement": 0.97,
+      "transcript_agreement_raw": 0.955,
+      "n_comparable": 200
+    }
+  }
+}

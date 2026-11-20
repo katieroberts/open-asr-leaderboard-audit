@@ -1,0 +1,514 @@
+[
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "ArtificialAnalysis-Earnings22-Cleaned-AA-chunked_earnings22_cleaned_aa_chunked_test",
+    "ours": 7.878669784359574,
+    "published": 7.88,
+    "delta": -0.0013302156404257914,
+    "n_clips": 6
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "VoiceArena-Monsoon_en_IN_test__test",
+    "ours": 3.441854754547873,
+    "published": 3.44,
+    "delta": 0.0018547545478728722,
+    "n_clips": 2102
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_ami_cleaned_test",
+    "ours": 7.016563850973916,
+    "published": 7.02,
+    "delta": -0.00343614902608369,
+    "n_clips": 7715
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_ami_test",
+    "ours": 7.803302306211802,
+    "published": 7.8,
+    "delta": 0.003302306211802275,
+    "n_clips": 11626
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_earnings22_test",
+    "ours": 10.37464568869901,
+    "published": 10.37,
+    "delta": 0.004645688699010719,
+    "n_clips": 2737
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_gigaspeech_cleaned_test",
+    "ours": 7.879781338208152,
+    "published": 7.88,
+    "delta": -0.0002186617918482625,
+    "n_clips": 18757
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_gigaspeech_test",
+    "ours": 7.930884252906948,
+    "published": 7.93,
+    "delta": 0.0008842529069479355,
+    "n_clips": 19855
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.clean",
+    "ours": 0.9660377358490566,
+    "published": 0.97,
+    "delta": -0.003962264150943362,
+    "n_clips": 2620
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.other",
+    "ours": 2.051437330860506,
+    "published": 2.05,
+    "delta": 0.0014373308605062363,
+    "n_clips": 2939
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_spgispeech_test",
+    "ours": 2.7420129156148856,
+    "published": 2.74,
+    "delta": 0.002012915614885369,
+    "n_clips": 39341
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_clean_test",
+    "ours": 4.448638447020761,
+    "published": 4.45,
+    "delta": -0.0013615529792394554,
+    "n_clips": 1000
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_test",
+    "ours": 9.495820976004314,
+    "published": 9.5,
+    "delta": -0.0041790239956860376,
+    "n_clips": 1000
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_voxpopuli_cleaned_aa_test",
+    "ours": 5.376525504752264,
+    "published": 5.38,
+    "delta": -0.0034744952477359092,
+    "n_clips": 628
+  },
+  {
+    "model": "CohereLabs-cohere-transcribe-03-2026",
+    "dataset": "hf-audio-open-asr-leaderboard_voxpopuli_test",
+    "ours": 5.58404429115992,
+    "published": 5.58,
+    "delta": 0.004044291159919666,
+    "n_clips": 1842
+  },
+  {
+    "model": "FluidVoice-Labs-fluid-speech-pro",
+    "dataset": "ArtificialAnalysis-Earnings22-Cleaned-AA-chunked__test",
+    "ours": 5.416991426344505,
+    "published": 5.42,
+    "delta": -0.003008573655495006,
+    "n_clips": 6
+  },
+  {
+    "model": "FluidVoice-Labs-fluid-speech-pro",
+    "dataset": "VoiceArena-Monsoon_en_IN_test__test",
+    "ours": 3.7099183531482125,
+    "published": 3.71,
+    "delta": -8.164685178746467e-05,
+    "n_clips": 2102
+  },
+  {
+    "model": "FluidVoice-Labs-fluid-speech-pro",
+    "dataset": "hf-audio-open-asr-leaderboard_ami_cleaned_test",
+    "ours": 7.5460241900228295,
+    "published": 7.55,
+    "delta": -0.003975809977170286,
+    "n_clips": 7715
+  },
+  {
+    "model": "FluidVoice-Labs-fluid-speech-pro",
+    "dataset": "hf-audio-open-asr-leaderboard_gigaspeech_cleaned_test",
+    "ours": 7.509385787990723,
+    "published": 7.51,
+    "delta": -0.0006142120092764713,
+    "n_clips": 18757
+  },
+  {
+    "model": "FluidVoice-Labs-fluid-speech-pro",
+    "dataset": "hf-audio-open-asr-leaderboard_spgispeech_test",
+    "ours": 2.3131442966358486,
+    "published": 2.31,
+    "delta": 0.003144296635848587,
+    "n_clips": 39341
+  },
+  {
+    "model": "FluidVoice-Labs-fluid-speech-pro",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_clean_test",
+    "ours": 4.561876516581289,
+    "published": 4.56,
+    "delta": 0.0018765165812890672,
+    "n_clips": 1000
+  },
+  {
+    "model": "FluidVoice-Labs-fluid-speech-pro",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_test",
+    "ours": 9.830142895659208,
+    "published": 9.83,
+    "delta": 0.00014289565920755365,
+    "n_clips": 1000
+  },
+  {
+    "model": "FluidVoice-Labs-fluid-speech-pro",
+    "dataset": "hf-audio-open-asr-leaderboard_voxpopuli_cleaned_aa_test",
+    "ours": 1.6984421573589787,
+    "published": 1.7,
+    "delta": -0.001557842641021212,
+    "n_clips": 628
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "ArtificialAnalysis-Earnings22-Cleaned-AA-chunked__test",
+    "ours": 5.826188620420888,
+    "published": 5.83,
+    "delta": -0.0038113795791119287,
+    "n_clips": 6
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "VoiceArena-Monsoon_en_IN_test__test",
+    "ours": 3.4377621805234404,
+    "published": 3.44,
+    "delta": -0.002237819476559544,
+    "n_clips": 2102
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_ami_cleaned_test",
+    "ours": 6.533249137805411,
+    "published": 6.53,
+    "delta": 0.0032491378054109177,
+    "n_clips": 7715
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_gigaspeech_cleaned_test",
+    "ours": 6.412299851690701,
+    "published": 6.41,
+    "delta": 0.0022998516907009048,
+    "n_clips": 18757
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.clean",
+    "ours": 1.030188679245283,
+    "published": 1.03,
+    "delta": 0.00018867924528298552,
+    "n_clips": 2620
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.other",
+    "ours": 2.1820177513673094,
+    "published": 2.18,
+    "delta": 0.002017751367309195,
+    "n_clips": 2939
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_spgispeech_test",
+    "ours": 1.8580521270500054,
+    "published": 1.86,
+    "delta": -0.0019478729499946557,
+    "n_clips": 39341
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_clean_test",
+    "ours": 4.799137233755729,
+    "published": 4.8,
+    "delta": -0.0008627662442703965,
+    "n_clips": 1000
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_test",
+    "ours": 10.488002156915611,
+    "published": 10.49,
+    "delta": -0.001997843084389217,
+    "n_clips": 1000
+  },
+  {
+    "model": "Musci-research-Musci-ASR-qwen-1019-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_voxpopuli_cleaned_aa_test",
+    "ours": 1.4734829312187165,
+    "published": 1.47,
+    "delta": 0.0034829312187165673,
+    "n_clips": 628
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "ArtificialAnalysis-Earnings22-Cleaned-AA-chunked_earnings22_cleaned_aa_chunked_test",
+    "ours": 7.833203429462198,
+    "published": 7.83,
+    "delta": 0.003203429462198315,
+    "n_clips": 6
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "VoiceArena-Monsoon_en_IN_test__test",
+    "ours": 4.227628967238945,
+    "published": 4.23,
+    "delta": -0.002371032761055325,
+    "n_clips": 2102
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_ami_cleaned_test",
+    "ours": 9.326273862146014,
+    "published": 9.33,
+    "delta": -0.0037261378539863443,
+    "n_clips": 7715
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_earnings22_test",
+    "ours": 10.775171507209464,
+    "published": 10.77,
+    "delta": 0.005171507209464465,
+    "n_clips": 2737
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_gigaspeech_cleaned_test",
+    "ours": 7.620680711985355,
+    "published": 7.62,
+    "delta": 0.0006807119853551313,
+    "n_clips": 18757
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.clean",
+    "ours": 1.7037735849056603,
+    "published": 1.7,
+    "delta": 0.0037735849056603765,
+    "n_clips": 2620
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.other",
+    "ours": 4.010143638462558,
+    "published": 4.01,
+    "delta": 0.00014363846255793788,
+    "n_clips": 2939
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_spgispeech_test",
+    "ours": 2.7396383421347417,
+    "published": 2.74,
+    "delta": -0.0003616578652585467,
+    "n_clips": 39341
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_clean_test",
+    "ours": 5.025613372876786,
+    "published": 5.03,
+    "delta": -0.004386627123214026,
+    "n_clips": 1000
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_test",
+    "ours": 11.561067673227285,
+    "published": 11.56,
+    "delta": 0.0010676732272845157,
+    "n_clips": 1000
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-0.6B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_voxpopuli_cleaned_aa_test",
+    "ours": 2.8963500365558743,
+    "published": 2.9,
+    "delta": -0.0036499634441256035,
+    "n_clips": 628
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "ArtificialAnalysis-Earnings22-Cleaned-AA-chunked_earnings22_cleaned_aa_chunked_test",
+    "ours": 5.839179007534424,
+    "published": 5.84,
+    "delta": -0.000820992465575543,
+    "n_clips": 6
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "VoiceArena-Monsoon_en_IN_test__test",
+    "ours": 3.497104503877714,
+    "published": 3.5,
+    "delta": -0.002895496122286012,
+    "n_clips": 2102
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_ami_cleaned_test",
+    "ours": 8.312284451352795,
+    "published": 8.31,
+    "delta": 0.0022844513527946475,
+    "n_clips": 7715
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_earnings22_test",
+    "ours": 9.721480507743498,
+    "published": 9.72,
+    "delta": 0.0014805077434978386,
+    "n_clips": 2737
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_gigaspeech_cleaned_test",
+    "ours": 7.221328337651677,
+    "published": 7.22,
+    "delta": 0.0013283376516772805,
+    "n_clips": 18757
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.clean",
+    "ours": 1.2566037735849056,
+    "published": 1.26,
+    "delta": -0.0033962264150944055,
+    "n_clips": 2620
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.other",
+    "ours": 2.9390056963342857,
+    "published": 2.94,
+    "delta": -0.0009943036657142912,
+    "n_clips": 2939
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_spgispeech_test",
+    "ours": 2.5738311678255616,
+    "published": 2.57,
+    "delta": 0.00383116782556181,
+    "n_clips": 39341
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_clean_test",
+    "ours": 4.297654354273389,
+    "published": 4.3,
+    "delta": -0.00234564572661089,
+    "n_clips": 1000
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_test",
+    "ours": 9.932596387166353,
+    "published": 9.93,
+    "delta": 0.002596387166352798,
+    "n_clips": 1000
+  },
+  {
+    "model": "Qwen-Qwen3-ASR-1.7B-hf",
+    "dataset": "hf-audio-open-asr-leaderboard_voxpopuli_cleaned_aa_test",
+    "ours": 2.851358191327822,
+    "published": 2.85,
+    "delta": 0.0013581913278217783,
+    "n_clips": 628
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "ArtificialAnalysis-Earnings22-Cleaned-AA-chunked__test",
+    "ours": 6.222395427383736,
+    "published": 6.22,
+    "delta": 0.002395427383736326,
+    "n_clips": 6
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "VoiceArena-Monsoon_en_IN_test__test",
+    "ours": 3.9431950725408744,
+    "published": 3.94,
+    "delta": 0.0031950725408744773,
+    "n_clips": 2102
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "hf-audio-open-asr-leaderboard_ami_cleaned_test",
+    "ours": 6.957060280759703,
+    "published": 6.96,
+    "delta": -0.002939719240297123,
+    "n_clips": 7715
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "hf-audio-open-asr-leaderboard_gigaspeech_cleaned_test",
+    "ours": 8.141651747607286,
+    "published": 8.14,
+    "delta": 0.0016517476072852588,
+    "n_clips": 18757
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.clean",
+    "ours": 0.9943396226415094,
+    "published": 0.99,
+    "delta": 0.004339622641509444,
+    "n_clips": 2620
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "hf-audio-open-asr-leaderboard_librispeech_test.other",
+    "ours": 2.210404799303571,
+    "published": 2.21,
+    "delta": 0.0004047993035709574,
+    "n_clips": 2939
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "hf-audio-open-asr-leaderboard_spgispeech_test",
+    "ours": 3.3643576520630396,
+    "published": 3.36,
+    "delta": 0.00435765206303973,
+    "n_clips": 39341
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_clean_test",
+    "ours": 4.7236451873820435,
+    "published": 4.72,
+    "delta": 0.0036451873820437797,
+    "n_clips": 1000
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "hf-audio-open-asr-leaderboard_urgent2024_test",
+    "ours": 10.22377999460771,
+    "published": 10.22,
+    "delta": 0.0037799946077097246,
+    "n_clips": 1000
+  },
+  {
+    "model": "ibm-granite-granite-speech-5.0-2b",
+    "dataset": "hf-audio-open-asr-leaderboard_voxpopuli_cleaned_aa_test",
+    "ours": 3.5206118890951017,
+    "published": 3.52,
+    "delta": 0.0006118890951016809,
+    "n_clips": 628
+  }
+]

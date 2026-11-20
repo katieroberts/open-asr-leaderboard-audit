@@ -1,0 +1,14 @@
+{
+ "n_checked": 1000,
+ "n_missing_audio": 200,
+ "max_abs_error_s": 9.8e-05,
+ "mean_abs_error_s": 8.72e-06,
+ "n_exact": 785,
+ "worst_clip": {
+  "clip_id": "fileid_715",
+  "dataset": "urgent2024",
+  "claimed_s": 10.079,
+  "decoded_s": 10.079,
+  "error_s": 9.8e-05
+ }
+}

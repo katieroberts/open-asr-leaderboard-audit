@@ -1,0 +1,23 @@
+__pycache__/
+.venv/
+logs/
+*.partial
+*.partial.json
+
+# Evaluation audio is not ours to redistribute, and scripts/fetch_audio.py
+# regenerates exactly the sampled clips from the manifest.
+data/audio/
+
+# The board's published outputs are large (about 200 MB in full). The subset
+# used by the reproduction is force-added in the commit so the clip-level
+# comparison works on a fresh clone; the rest is fetched by the sync commands
+# in the README.
+data/board_results/predictions/
+
+# Editor scratch
+*.swp
+*.swo
+*~
+
+# Pre-submission review scratch, not part of the deliverable
+REVIEW_FEEDBACK.md

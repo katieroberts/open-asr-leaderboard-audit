@@ -1,0 +1,18 @@
+{
+ "seed": 42,
+ "trials": 500,
+ "excluded_datasets": [
+  "spgispeech"
+ ],
+ "full_corpus_ranking": [
+  "Musci-research-Musci-ASR-qwen-1019-hf",
+  "Qwen-Qwen3-ASR-1.7B-hf",
+  "CohereLabs-cohere-transcribe-03-2026"
+ ],
+ "recovery_rate_pct": {
+  "100": 98.6,
+  "150": 99.8,
+  "200": 100.0,
+  "300": 100.0
+ }
+}
